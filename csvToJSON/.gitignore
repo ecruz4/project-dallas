@@ -1,0 +1,7 @@
+/node_modules
+/answers_photos.csv
+/answers.csv
+/questions.csv
+/transformed_answers_photos.json
+/transformed_answers.json
+/transformed_questions.json
